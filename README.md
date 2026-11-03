@@ -11,6 +11,10 @@ keeping LLM workloads cheap and evaluable.
 - [agentic-learning-os](https://github.com/dipsbhakat/agentic-learning-os): a multi-agent
   tutor. A Mentor agent orchestrates Planner, Course Generator and Project Coach subagents
   over a per-student skill model, with typed subagent outputs and tenant-scoped data access.
+- [geo-ai-search](https://github.com/dipsbhakat/geo-ai-search): Generative Engine
+  Optimization. Scores how ready a site is to be cited by AI search engines, tracks brand
+  citations across ChatGPT, Gemini, Perplexity and others, and evaluates retrieval with
+  hybrid BM25 + FAISS search, reranking and nDCG/MRR metrics.
 - [ImageToVideoGenerator](https://github.com/dipsbhakat/ImageToVideoGenerator): system design
   for a multilingual image-to-video platform, covering GPU scheduling, cost per generation and
   a phased MVP-to-production plan.
